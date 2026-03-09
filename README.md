@@ -1,5 +1,3 @@
-## Hi there 👋
-
 **Projects**:
 
 - [NexusCRM](https://github.com/axiomly/NexusCRM)
